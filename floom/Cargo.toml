@@ -1,0 +1,8 @@
+[package]
+name = "floom"
+version = "0.1.0"
+authors = ["kprotty"]
+edition = "2018"
+
+[dependencies]
+usync = { path = "./usync" }
